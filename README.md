@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @john-sc
 - 👀 I’m interested in programming, tennis, and life in general. I am a SQL, c++, c# person.
-- 🌱 I’m currently learning MS Azure devops. 
-- 💞️ At work my team's current project is to implement messaging with an external supplier's system using an Azure service bus with a message queue in each direction.
+- 🌱 I've done some MS Azure devops (with some YAML).
+- I have worked on an e2e MS Azure service bus messaging app.
 
 <!---
 john-sc/john-sc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
